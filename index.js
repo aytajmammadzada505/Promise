@@ -1,16 +1,5 @@
-/*let promise
 
-const promise2 = new Promise((resolve, reject) => {
-    if (true) {
-        resolve("ugurlu")
-    } else {
-        reject("xeta")
-    }
-})
-console.log(promise2); */
-
-
-/*task 1
+//task 1
 let num = 7;
 
 const sehrliQutuAc = new Promise((resolve, reject) => {
